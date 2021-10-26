@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T17:40:11.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="14.7.1" etag="4TWTgX-Wf3pRcjWhHjxu" type="github"><diagram id="zWDDZzll1tAHpkjCKevH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-26T17:51:43.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cdTHwXCaqq0IOZ5lyVw3" version="14.7.1" type="github">
+  <diagram id="zWDDZzll1tAHpkjCKevH" name="Page-1">
+    <mxGraphModel dx="881" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="khgneXo3iq-ahnnwSWUm-1" value="Студент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-2" value="Преподаватель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-3" value="ID студента" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-7" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="khgneXo3iq-ahnnwSWUm-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="170" as="sourcePoint" />
+            <mxPoint x="180" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-10" value="ID преподавателя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-11" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129.82999999999976" y="450" as="sourcePoint" />
+            <mxPoint x="129.82999999999976" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-22" value="ВУЗ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-24" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="370" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-25" value="Название вуза" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-27" value="Адрес вуза" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-28" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-30" value="Справочный телефон" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-31" value="ФИО ректора" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khgneXo3iq-ahnnwSWUm-32" value="ФИО проректора" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
